@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	background-color: black;
+}
+header {
+	background-image: url('banner.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	max-height: 23rem;
+}
+header > img {
+	visibility: hidden;
+}
+main {
+	background-color: white;
+	text-align: center;
+	padding: 2.3rem;
+}
